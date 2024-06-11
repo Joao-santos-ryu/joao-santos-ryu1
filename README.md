@@ -1,4 +1,4 @@
-# joao-santos-ryu1
+edu do # joao-santos-ryu1
 ### Boas vindas ao meu perfil :blue_heart
 
 Meu nome é joao vitor
