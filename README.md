@@ -1,7 +1,7 @@
-edu do # joao-santos-ryu1
-### Boas vindas ao meu perfil :blue_heart
+**joâovitor**
+### Boas vindas ao meu perfil 
 
-Meu nome é joao vitor
+Meu nome é joao vitor 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
