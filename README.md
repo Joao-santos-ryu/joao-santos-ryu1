@@ -1,4 +1,4 @@
-**joâovitor**
+**JOÂOVITOR**
 ### Boas vindas ao meu perfil 
 
 Meu nome é joao vitor 
